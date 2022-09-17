@@ -13,7 +13,7 @@ presentación
 
 | **Aplicaciones** | **Visto** |
 | ------ |:------:|
-| Google Docs | ----- |
+| Google Docs | (Captura de pantalla 2022-09-17 153758.png) |
 | Google Slides | ----- |
 | Google Sheets | ----- |
 | Google Calendar | ----- |
